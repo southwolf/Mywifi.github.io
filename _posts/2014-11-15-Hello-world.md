@@ -1,6 +1,6 @@
 ---
 layout: post
-category : helloworld
+category : Helloworld
 tagline: "Hello world"
 tags : [intro, beginner, jekyll, hello world]
 ---
