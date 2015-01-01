@@ -2,7 +2,7 @@
 layout: post
 category : OpenGL
 tagline: "OpenGL颜色混合函数详解"
-tags : [intro, beginner, jekyll, hello world]
+tags : [OpenGL, glBlendFunc, blend, gl]
 ---
 {% include JB/setup %}
 
